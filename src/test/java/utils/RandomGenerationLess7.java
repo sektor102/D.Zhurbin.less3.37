@@ -2,7 +2,6 @@ package utils;
 
 import com.github.javafaker.Faker;
 
-import java.security.SecureRandom;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
